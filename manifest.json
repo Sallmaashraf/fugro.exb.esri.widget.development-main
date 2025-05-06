@@ -1,0 +1,7 @@
+{
+  "name": "fugro-exb",
+  "type": "exb-web-extension-repo",
+  "description": "developer edition ArcGIS Experience Builder repository for Fugro.",
+  "copyright": "Fugro",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0"
+}

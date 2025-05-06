@@ -1,0 +1,18 @@
+{
+    "messageActions": [
+    {
+      "name": "zoomToFeature",
+      "label": "Zoom to",
+      "uri": "message-actions/zoom-to-feature-action",
+      "settingUri": "message-actions/zoom-to-feature-action-setting"
+    }
+  ],
+  "dataActions": [
+    {
+      "name": "zoomToFeature",
+      "label": "Zoom to",
+      "uri": "data-actions/zoom-to",
+      "icon": "runtime/assets/select-zoomto.svg"
+    }
+  ]
+}
